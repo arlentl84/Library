@@ -1,0 +1,17 @@
+D:\Para la prueba\Library.WebApi\Library.WebApi.DataAccess\bin\Debug\net8.0\Library.WebApi.DataAccess.deps.json
+D:\Para la prueba\Library.WebApi\Library.WebApi.DataAccess\bin\Debug\net8.0\Library.WebApi.DataAccess.runtimeconfig.json
+D:\Para la prueba\Library.WebApi\Library.WebApi.DataAccess\bin\Debug\net8.0\Library.WebApi.DataAccess.dll
+D:\Para la prueba\Library.WebApi\Library.WebApi.DataAccess\bin\Debug\net8.0\Library.WebApi.DataAccess.pdb
+D:\Para la prueba\Library.WebApi\Library.WebApi.DataAccess\bin\Debug\net8.0\Library.WebApi.Domain.dll
+D:\Para la prueba\Library.WebApi\Library.WebApi.DataAccess\bin\Debug\net8.0\Library.WebApi.Domain.pdb
+D:\Para la prueba\Library.WebApi\Library.WebApi.DataAccess\obj\Debug\net8.0\Library.WebApi.DataAccess.csproj.AssemblyReference.cache
+D:\Para la prueba\Library.WebApi\Library.WebApi.DataAccess\obj\Debug\net8.0\Library.WebApi.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Para la prueba\Library.WebApi\Library.WebApi.DataAccess\obj\Debug\net8.0\Library.WebApi.DataAccess.AssemblyInfoInputs.cache
+D:\Para la prueba\Library.WebApi\Library.WebApi.DataAccess\obj\Debug\net8.0\Library.WebApi.DataAccess.AssemblyInfo.cs
+D:\Para la prueba\Library.WebApi\Library.WebApi.DataAccess\obj\Debug\net8.0\Library.WebApi.DataAccess.csproj.CoreCompileInputs.cache
+D:\Para la prueba\Library.WebApi\Library.WebApi.DataAccess\obj\Debug\net8.0\Library.WebApi.DataAccess.csproj.CopyComplete
+D:\Para la prueba\Library.WebApi\Library.WebApi.DataAccess\obj\Debug\net8.0\Library.WebApi.DataAccess.dll
+D:\Para la prueba\Library.WebApi\Library.WebApi.DataAccess\obj\Debug\net8.0\refint\Library.WebApi.DataAccess.dll
+D:\Para la prueba\Library.WebApi\Library.WebApi.DataAccess\obj\Debug\net8.0\Library.WebApi.DataAccess.pdb
+D:\Para la prueba\Library.WebApi\Library.WebApi.DataAccess\obj\Debug\net8.0\Library.WebApi.DataAccess.genruntimeconfig.cache
+D:\Para la prueba\Library.WebApi\Library.WebApi.DataAccess\obj\Debug\net8.0\ref\Library.WebApi.DataAccess.dll
